@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/mafif21/Intractive-Rating-Component)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://62667084dcafd9753b68c792--cozy-platypus-e4e46d.netlify.app/)
 
 ## My process
 
@@ -50,6 +50,6 @@ In the future, I think that making a website related to APIs is very challenging
 
 ## Author
 
-- Instagram - [@apiipp**\_**](https://www.instagram.com/apiipp_____)
+- Instagram - [@apiipp](https://www.instagram.com/apiipp_____)
 - Frontend Mentor - [@mafif21](https://www.frontendmentor.io/profile/mafif21)
 - Twitter - [@leletambak](https://www.twitter.com/leletambak)
